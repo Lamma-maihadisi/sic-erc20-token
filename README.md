@@ -100,7 +100,7 @@ I'm always excited to collaborate and learn. Reach out if you're interested in c
 
 - **GitHub**: [Lamma-maihadisi](https://github.com/Lamma-maihadisi)
 - **Twitter**: [maihadisee](https://x.com/maihadisee)
-- **LinkedIn**: [Muhammad umar](www.linkedin.com/in/muhammad-umar-074103293)
+- **LinkedIn**: [Muhammad umar](https://linkedin.com/in/muhammad-umar-074103293)
 
 
 Happy coding! 🚀
